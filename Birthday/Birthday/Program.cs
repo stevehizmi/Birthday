@@ -6,9 +6,15 @@ namespace Birthday
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            try{
+ Console.WriteLine("Hello World!");
             Console.WriteLine("1 million Dollars");
 			Console.ReadKey();
+            }
+            catch(Exception e){
+                throw e;
+            }
+           
         }
     }
 }
