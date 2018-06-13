@@ -8,6 +8,8 @@ namespace Birthday
         {
             Console.WriteLine("Hello World!");
 			Console.WriteLine("Water");
+            Console.WriteLine("Money");
+            Console.WriteLine("A dog");
 			Console.ReadKey();
         }
     }
