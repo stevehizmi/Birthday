@@ -7,6 +7,7 @@ namespace Birthday
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("A dog");
 			Console.ReadKey();
         }
     }
